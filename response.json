@@ -1,0 +1,94 @@
+{
+  "content":[
+    {
+      "id": 1,
+      "type":"News Alert",
+      "date":"26 Jan 2022",
+      "title":"Delivery Hero has been awarded the “Great Place to Work” International Certificate",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2022/01/GPTW_Newsalert-1-1200x655.png"
+    },
+
+    { 
+      "id": 2,
+      "type":"Press Release",
+      "date":"10 Jan 2022",
+      "title":"Flash Update: Delivery Hero expects its food delivery business to break even during H2 2022 and shares insights on Glovo’s business performance",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/12/breakeven-flash-update-header-1200x660.jpg"
+    },
+    
+    {
+      "id": 3,
+      "type":"News Alert",
+      "date":"10 Jan 2022",
+      "title":"Delivery Hero has monetized its investment in food delivery company Rappi",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2022/01/Delivery-Hero-decreases-Rappi-stake-1200x660.jpg"
+    },
+    {
+      "id": 4,
+      "type":"Press Release",
+      "date":"31 Dec 2021",
+      "title":"Tech champions join forces: Delivery Hero signs agreement to become the majority shareholder of Glovo",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/12/Newsroom-Header-1200x660.jpg"
+    },
+    {
+      "id": 5,
+      "type":"Press Release",
+      "date":"22 Dec 2021",
+      "title":"Delivery Hero scales down foodpanda Germany to a Berlin-based innovation hub and announces the planned divestiture of foodpanda Japan",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/12/PR-Header-1200x660.jpg"
+    },
+    {
+      "id": 6,
+      "type":"News Alert",
+      "date":"4 Dec 2021",
+      "title":"Delivery Hero to shape the future of quick commerce, launching Logistics-as-a-Service in 25+ markets",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/12/DeliverAnythiing_NewsAlert-1200x800.png"
+    },
+    {
+      "id": 7,
+      "type":"Press Release",
+      "date":"11 Nov 2021",
+      "title":"Delivery Hero continues strong growth trajectory in Q3 2021 and strengthens leadership position in quick commerce with accelerated Dmart roll-out",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/08/2021Q3-TU-1200x660.jpg"
+    },
+    {
+      "id": 8,
+      "type":"News Alert",
+      "date":"29 Oct 2021",
+      "title":"Delivery Hero completes the sale of Delivery Hero Korea LLC",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/10/Pacific-Closing-1200x660.jpg"
+    },
+    {
+      "id": 9,
+      "type":"Press Release",
+      "date":"21 Oct 2021",
+      "title":"Delivery Hero appoints members of new Diversity and Inclusion Advisory Board to drive business success",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/09/DAB-1200x660.jpeg"
+    },
+    {
+      "id": 10,
+      "type":"Press Release",
+      "date":"19 Oct 2021",
+      "title":"Delivery Hero invests in on-demand grocery delivery company Gorillas to further advance the quick commerce industry",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/09/20210908-Newsroom-Gorillas-1200x660.jpg"
+    },
+    {
+      "id": 11,
+      "type":"Press Release",
+      "date":"14 Oct 2021",
+      "title":"Delivery Hero acquires hugo’s food and grocery delivery verticals and expands its footprint in Central America and the Caribbean",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/08/hugo-1200x660.jpg" 
+    },
+    {
+      "id": 12,
+      "type":"News Alert",
+      "date":"01 Oct 2021",
+      "title":"Delivery Hero acquires Danish food delivery service Hungry",
+      "image-url":"https://www.deliveryhero.com/wp-content/uploads/2021/09/denkmark-1200x675.jpg" 
+    }
+    
+  ]
+  
+  
+  
+}
